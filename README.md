@@ -43,7 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-
+"C:\Users\SEC\Downloads\ex 1.1 (1)"
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
