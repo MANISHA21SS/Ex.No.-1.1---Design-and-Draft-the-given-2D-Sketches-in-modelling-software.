@@ -6,7 +6,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## REQUIREMENTS
 
-  1. Autodesk fusion 360
+  1. Autodesk fusion 360.
   2. Windows 10
   3. 16 GB of RAM (integrated graphics recommend 2 GB or more)
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload.
@@ -42,7 +42,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![ex 1 1-1](https://user-images.githubusercontent.com/119393424/209066644-373cac4b-a5cb-4c39-b88a-113f8b75fb1f.png)
+![image](https://github.com/MANISHA21SS/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147474298/0ca08d29-be90-40ea-895c-1d5bec588a7d)
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
